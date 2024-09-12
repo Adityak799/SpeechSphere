@@ -29,16 +29,12 @@
   - **ChatGPT**: Provides advanced natural language understanding and text generation capabilities.
   - **DALL-E**: Creates images from text prompts, showcasing powerful visual creativity.
 
-- **Firebase** (if applicable):
-  - Provides real-time database, authentication, and cloud functions.
-
 ## Installation
 
 ### Prerequisites
 
 - [Flutter](https://flutter.dev/docs/get-started/install): Ensure Flutter is installed and set up.
 - [Dart](https://dart.dev/get-dart): Dart SDK is required.
-- [Firebase](https://firebase.google.com/): Configure Firebase (if used for backend services).
 - [OpenAI API Key](https://beta.openai.com/signup/): Obtain an API key from OpenAI.
 
 ### Steps
