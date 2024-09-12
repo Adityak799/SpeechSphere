@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-Here's an updated version of the README file with added emphasis on design and formatting:
+# SpeechSphere
 
----
-
-# Vocal Vision
-
-**Vocal Vision** is a state-of-the-art AI-powered chat application that integrates advanced voice command functionality with cutting-edge image generation. Developed using Flutter and leveraging OpenAI's APIs, Vocal Vision offers a seamless and interactive user experience with a well-crafted design.
+**SpeechSphere** is a state-of-the-art AI-powered chat application that integrates advanced voice command functionality with cutting-edge image generation. Developed using Flutter and leveraging OpenAI's APIs, SpeechSphere offers a seamless and interactive user experience with a well-crafted design.
 
 ## Key Features
 
@@ -51,13 +46,13 @@ Here's an updated version of the README file with added emphasis on design and f
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/im-sumitgupta/VocalVision.git
+   git clone https://github.com/im-sumitgupta/SpeechSphere.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd VocalVision
+   cd SpeechSphere
    ```
 
 3. **Install Dependencies**
@@ -98,19 +93,10 @@ Here's an updated version of the README file with added emphasis on design and f
   - Consistent color schemes and typography throughout the application.
   - Designed to ensure a visually appealing and coherent experience.
 
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or feedback, please contact [your-email@example.com](mailto:sumitkumar2004gupta.com).
-
----
-
-Feel free to adjust any section to better fit your project’s specific details or features!
-=======
-# SpeechSphere
-A smart assistant that responds to voice in text and visuals.
->>>>>>> e2017ac7ad4cb87f299bf9c46d421b53ba293abf
+For any questions or feedback, please contact [adityak7047@gmail.com](mailto:adityak7047@gmail.com).
