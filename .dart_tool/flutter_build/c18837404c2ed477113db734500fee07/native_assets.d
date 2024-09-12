@@ -1,0 +1,1 @@
+ C:\\Users\\ADITYA\ KUMAR\\Downloads\\VocalVision-master\\VocalVision-master\\.dart_tool\\flutter_build\\c18837404c2ed477113db734500fee07\\native_assets.yaml: 
