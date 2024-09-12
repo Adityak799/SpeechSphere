@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here's an updated version of the README file with added emphasis on design and formatting:
 
 ---
@@ -109,3 +110,7 @@ For any questions or feedback, please contact [your-email@example.com](mailto:su
 ---
 
 Feel free to adjust any section to better fit your project’s specific details or features!
+=======
+# SpeechSphere
+A smart assistant that responds to voice in text and visuals.
+>>>>>>> e2017ac7ad4cb87f299bf9c46d421b53ba293abf
